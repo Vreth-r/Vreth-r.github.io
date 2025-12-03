@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -43,8 +41,8 @@
     <section class="mb-8">
       <h2 class="text-2xl font-semibold text-indigo-500 mb-3">2. How I Built the Page</h2>
       <p class="leading-relaxed">
-        I created a single <code>index.html</code> file and structured the content into three main
-        sections: installation, building process, and difficulties. Tailwind utility classes were
+        I created a single <code>README.md</code> file and structured the content into three main
+        sections: installation, building process, and difficulties as you can see on this page. Tailwind utility classes were
         used for layout, spacing, typography, and styling.
       </p>
 
@@ -70,11 +68,10 @@
           <strong>Solution:</strong> Added Tailwind utility classes like <code>shadow-lg</code>,
           <code>rounded-xl</code>, and <code>p-8</code> to improve the design quickly.
         </li>
-
+        
         <li class="mb-2">
-          <strong>Difficulty:</strong> Unsure how to structure content for clarity.<br>
-          <strong>Solution:</strong> Kept sections simple, used clear headings, and let Tailwind’s
-          spacing utilities define a readable layout.
+          <strong>Difficulty:</strong> I hate web development and genuinely thought of not doing this section of the lab.<br>
+          <strong>Solution:</strong> I plan on not doing very well on the exam so I figured I need as many marks on the labs as possible.
         </li>
       </ul>
     </section>
